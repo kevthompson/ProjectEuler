@@ -4,15 +4,15 @@
 using namespace std;
 
 
-void longdouble(int num[], int length) {
+void longmultiply(int num[], int multiplier, int length) {
 	int carry = 0;
 	int i;
 	for (i = 0; i < length; i++) {
-		
-		int temp = num[i] * 2 + carry;
-		
+
+		int temp = num[i] * multiplier + carry;
+
 		carry = temp / 10;
-		
+
 		num[i] = temp % 10;
 		cout << num[i] << endl;
 	}
@@ -21,7 +21,6 @@ void longdouble(int num[], int length) {
 int getSumofDigits(int num[], int length) {
 	int sum = 0;
 	for (int i = 0; i < length; i++) {
-		cout << num[i] << endl;
 		sum += num[i];
 	}
 	return sum;
@@ -35,12 +34,12 @@ int main() {
 		num[i] = 0;
 	}
 
-	for (int i = 0; i < 1000; i++) {
-		longdouble(num, length);
+	for (int i = 1; i <= 100; i++) {
+		longmultiply(num, i, length);
 	}
 
 	int solution = getSumofDigits(num, length);
-	
+
 	printf("solution is %d \n", solution);
 
 	system("pause");
