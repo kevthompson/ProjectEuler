@@ -4,14 +4,14 @@ My solutions for Project Euler
 
 SOLVED
 =======
-1-15, 19
+1-20
 
 
 UNSOLVED
 ========
-16
+Currently between problems
 
 
 NOT ATTEMPTED
 =============
-17-18, 20+
+21+
