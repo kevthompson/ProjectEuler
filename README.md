@@ -4,12 +4,12 @@ My solutions for Project Euler
 
 SOLVED
 =======
-1-21
+1-21, 23
 
 
 UNSOLVED
 ========
-22, 23
+22
 
 
 NOT ATTEMPTED
