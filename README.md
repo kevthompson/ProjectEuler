@@ -9,9 +9,9 @@ SOLVED
 
 UNSOLVED
 ========
-22, 24
+22, 24-25
 
 
 NOT ATTEMPTED
 =============
-25+
+26+
