@@ -1,6 +1,7 @@
 # ProjectEuler
 My solutions for Project Euler
 
+Currently inactive, should resume soon
 
 SOLVED
 =======
