@@ -10,9 +10,13 @@ SOLVED
 
 UNSOLVED
 ========
-22, 24-25
+22, 24
 
 
 NOT ATTEMPTED
 =============
 26+
+
+USED PYTHON (CHEATED)
+=====================
+25
