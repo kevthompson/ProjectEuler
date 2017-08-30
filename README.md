@@ -1,8 +1,6 @@
 # ProjectEuler
 My solutions for Project Euler
 
-Currently inactive, should resume soon
-
 SOLVED
 =======
 1-21, 23
@@ -10,7 +8,7 @@ SOLVED
 
 UNSOLVED
 ========
-22, 24
+22
 
 
 NOT ATTEMPTED
@@ -19,4 +17,4 @@ NOT ATTEMPTED
 
 USED PYTHON (CHEATED)
 =====================
-25
+24, 25
